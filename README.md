@@ -1,4 +1,13 @@
-# 🐦 Full Screen Flappy Bird
+<p align="center">
+  <a href="https://stephen-costa20.github.io/flappy-bird/"><img src="https://img.shields.io/badge/Play-Live_Demo-2ecc71?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Frameworks-None-important?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mobile-Friendly-blue?style=for-the-badge&logo=mobile&logoColor=white" />
+</p>
+
+# ⭐ Full Screen Flappy Bird 🐦 
 
 A modern, full-screen Flappy Bird clone built with **pure HTML, CSS, and JavaScript**. Designed to run smoothly on desktop and mobile with responsive layout, touch controls, keyboard input, and dynamic difficulty scaling — no frameworks required.
 
@@ -12,7 +21,6 @@ A modern, full-screen Flappy Bird clone built with **pure HTML, CSS, and JavaScr
   ▶️ <strong><a href="https://stephen-costa20.github.io/flappy-bird/">Play Live Demo</a></strong>
 </p>
 
----
 
 ## 🎮 Features
 
@@ -24,7 +32,6 @@ A modern, full-screen Flappy Bird clone built with **pure HTML, CSS, and JavaScr
 - Game-over overlay with instant restart
 - Fully self-contained — single HTML file
 
----
 
 ## 🕹 Controls
 
@@ -33,7 +40,6 @@ A modern, full-screen Flappy Bird clone built with **pure HTML, CSS, and JavaScr
 | Jump / Flap | Spacebar, ↑ Arrow, Mouse Click, Touch |
 | Restart | Click **Play Again** button |
 
----
 
 ## 🚀 Getting Started
 
@@ -53,7 +59,6 @@ Simply click the link below — no setup required:
    ```
    Or just double-click the HTML file in your browser.
 
----
 
 ## 🧠 How It Works
 
@@ -63,7 +68,6 @@ Simply click the link below — no setup required:
 - Difficulty subtly increases as your score grows
 - Designed to adapt seamlessly to different screen sizes
 
----
 
 ## 🛠 Tech Stack
 
@@ -73,7 +77,6 @@ Simply click the link below — no setup required:
 
 No libraries. No frameworks. No build tools.
 
----
 
 ## 📁 Project Structure
 
@@ -85,7 +88,6 @@ No libraries. No frameworks. No build tools.
 └── README.md
 ```
 
----
 
 ## 📸 Screenshots
 
@@ -93,7 +95,6 @@ Gameplay preview:
 
 ![Gameplay GIF](assets/screenshot.gif)
 
----
 
 ## 🌱 Ideas for Future Enhancements
 
@@ -103,19 +104,7 @@ Gameplay preview:
 - Mobile vibration feedback
 - Visual themes / skins
 
----
 
 ## 📄 License
 
 MIT License — free to use, modify, and share.
-
----
-
-## 👤 Author
-
-**Stephen Costa**  
-GitHub: https://github.com/stephen-costa20
-
----
-
-⭐ If you enjoyed this project, consider starring the repo!
