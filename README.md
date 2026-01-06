@@ -12,15 +12,17 @@
 A modern, full-screen Flappy Bird clone built with **pure HTML, CSS, and JavaScript**. Designed to run smoothly on desktop and mobile with responsive layout, touch controls, keyboard input, and dynamic difficulty scaling — no frameworks required.
 
 <p align="center">
-  <a href="https://stephen-costa20.github.io/flappy-bird/">
+  <a href="https://stephen-costa20.github.io/BirdFlappy/">
     <img src="assets/screenshot.gif" alt="Flappy Bird Gameplay Preview" width="600">
   </a>
 </p>
 
-<p align="center">
-  ▶️ <strong><a href="https://stephen-costa20.github.io/flappy-bird/">Play Live Demo</a></strong>
-</p>
+🎮 **Play the live demo:**  
+https://stephen-costa20.github.io/StevePingPong/
 
+<a href="https://stephen-costa20.github.io/BirdFlappy/" target="_blank">
+  <img src="assets/screenshot.gif" alt="Ping Pong game preview" width="900" />
+</a>
 
 ## 🎮 Features
 
@@ -46,16 +48,16 @@ A modern, full-screen Flappy Bird clone built with **pure HTML, CSS, and JavaScr
 ### Option 1: Play Online
 Simply click the link below — no setup required:
 
-👉 **https://stephen-costa20.github.io/flappy-bird/**
+👉 **https://stephen-costa20.github.io/BirdFlappy/**
 
 ### Option 2: Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/stephen-costa20/flappy-bird.git
+   git clone https://github.com/stephen-costa20/BirdFlappy.git
    ```
 2. Open the file:
    ```bash
-   open flappy_bird.html
+   open index.html
    ```
    Or just double-click the HTML file in your browser.
 
@@ -82,7 +84,7 @@ No libraries. No frameworks. No build tools.
 
 ```text
 /
-├── flappy_bird.html
+├── index.html
 ├── assets/
 │   └── screenshot.gif
 └── README.md
